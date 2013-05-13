@@ -1,0 +1,20 @@
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\bin\Debug\Cards.exe
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\bin\Debug\Cards.pdb
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\bin\Debug\Cards.xml
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\obj\x86\Debug\Cards.Resources.resources
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\obj\x86\Debug\Cards.exe
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\obj\x86\Debug\Cards.xml
+C:\Users\Nick\AppData\Local\Temporary Projects\Cards\obj\x86\Debug\Cards.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Debug\Cards.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Debug\Cards.xml
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Debug\Cards.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\bin\Debug\Cards.xml
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Debug\Cards.Resources.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Debug\GenerateResource.write.1.tlog

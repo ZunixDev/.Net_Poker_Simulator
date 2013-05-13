@@ -1,0 +1,10 @@
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\bin\Release\Cards.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\bin\Release\Cards.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\bin\Release\Cards.xml
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Release\Cards.Resources.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Release\Cards.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Release\Cards.xml
+C:\Users\Nick\documents\visual studio 2010\Projects\Cards\Cards\obj\x86\Release\Cards.pdb
